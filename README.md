@@ -2,11 +2,13 @@
 
 本域名已被New_Jie注册
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+需要此域名，请通过一下联系方式联系我。
+或在下方留言板留下你的联系方式
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+联系方式：
+QQ：2104277421
 
 ```markdown
 Syntax highlighted code block
