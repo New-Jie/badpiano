@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to BadPiano
 
-You can use the [editor on GitHub](https://github.com/New-Jie/badpiano/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本域名已被New_Jie注册
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
